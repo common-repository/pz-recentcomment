@@ -1,0 +1,116 @@
+/* [Pz-RCm][0.0.1] CSS */
+.comment-listitem {
+}
+
+.comment-user {
+	display:				block;
+	height:					34px;
+}
+
+.comment-author-link			{
+}
+.comment-author-link a			{
+}
+.comment-author-link a:hover	{
+}
+
+.comment-author {
+}
+
+
+.comment-avatar {
+	border:					1px solid #444;
+	height:					32px;
+	width:					32px;
+	float:					left;
+}
+.comment-avatar img{
+	max-height:				32px;
+	max-width:				32px;
+}
+
+.comment-author {
+	margin-left:			40px;
+	display:				block;
+	overflow:				hidden;
+	font-size:				14px;
+	line-height:			26px;
+}
+
+.comment-date {
+	margin-left:			40px;
+	display:				block;
+	overflow:				hidden;
+	font-size:				8px;
+	line-height:			10px;
+}
+
+.comment-content-link {
+	clear:					both;
+	position:				relative;
+}
+
+.comment-content-link a {
+	text-decoration:		none;
+	color:					#444;
+}
+
+.comment-content {
+	position:				relative;
+	margin-top:				8px;
+	margin-left:			8px;
+
+	padding:				6px;
+
+	border:					1px		solid	#888;
+
+	text-decoration:		none;
+	overflow:				hidden;
+	font-size:				12px;
+	line-height:			18px;
+	display:				block;
+	background-color:		#fff;
+    border-radius:			8px;
+    -webkit-border-radius:	8px;
+    -moz-border-radius:		8px;
+}
+.comment-content-link:before {
+	content:				'';
+	position:				absolute;
+	border-bottom:			14px	solid	#888;
+	border-left:			5px		solid	transparent;
+	border-right:			10px		solid	transparent;
+	top:					2px;
+	left:					16px;
+}
+
+.comment-title {
+	margin:					4px 0 8px 12px;
+	display:				block;
+	overflow:				hidden;
+	font-size:				10px;
+	line-height:			12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
